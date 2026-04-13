@@ -1,0 +1,28 @@
+R-loom-blocking:
+- koko/src/runtime/blocking/*
+- koko/src/runtime/blocking/**/*
+
+R-loom-sync:
+- koko/src/sync/*
+- koko/src/sync/**/*
+
+R-loom-time-driver:
+- koko/src/runtime/time/*
+- koko/src/runtime/time/**/*
+
+R-loom-current-thread:
+- koko/src/runtime/scheduler/*
+- koko/src/runtime/scheduler/current_thread/*
+- koko/src/runtime/task/*
+- koko/src/runtime/task/**
+
+R-loom-multi-thread:
+- koko/src/runtime/scheduler/*
+- koko/src/runtime/scheduler/multi_thread/*
+- koko/src/runtime/scheduler/multi_thread/**
+- koko/src/runtime/task/*
+- koko/src/runtime/task/**
+
+R-loom-util:
+- koko-util/src/*
+- koko-util/src/**/*
