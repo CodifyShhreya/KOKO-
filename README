@@ -1,16 +1,16 @@
- *[TokioConf 2026 program and tickets are now available!](https://tokioconf.com)*
+ *[kokoConf 2026 program and tickets are now available!](https://kokoconf.com)*
 
 ---
 
-# Tokio
+# koko
 
 A runtime for writing reliable, asynchronous, and slim applications with
 the Rust programming language. It is:
 
-* **Fast**: Tokio's zero-cost abstractions give you bare-metal
+* **Fast**: koko's zero-cost abstractions give you bare-metal
   performance.
 
-* **Reliable**: Tokio leverages Rust's ownership, type system, and
+* **Reliable**: koko leverages Rust's ownership, type system, and
   concurrency model to reduce bugs and ensure thread safety.
 
 * **Scalable**: Tokio has a minimal footprint, and handles backpressure
